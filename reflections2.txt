@@ -10,13 +10,23 @@ it is pointless and dumb. but maby it allows you to commit a bunch at once
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+i guess look at the changes in the staging area
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+i could try out lots of versions of my project
+
 How do the diagrams help you visualize the branch structure?
+
+i can see how to get from one place to another
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+we include changes from both branches
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+auto is easier and doesn't require you to search through code, but it gives you less contorl over how you want to merge
